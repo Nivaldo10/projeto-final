@@ -1,0 +1,8 @@
+Matrícula_(ID);Nome;Idade;Número_de_dependentes;Salario;Cargo;data_Admissao;
+1;Ana_Souza;28;2;R$3500.00;Analista;2020-03-15;
+2;Carlos_Silva;34;1;R$1500.00;Gerente;2018-07-01;
+3;Maria_Oliveira;22;0;R$2500.00;Estagiária;2023-01-10;
+4;José_Santos;45;3;R$7000.00;Diretor;2015-05-20;
+5;Paula_Pereira;30;1;R$3800.00;Coordenadora;2021-06-13;
+6;Ricardo_Almeida;40;2;R$1500.00;Analista Sênior;2017-11-25;
+
